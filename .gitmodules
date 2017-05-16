@@ -1,0 +1,3 @@
+[submodule "python-haproxy"]
+	path = python-haproxy
+	url = git@github.com:AlexeyStolyarov/python-haproxy.git
